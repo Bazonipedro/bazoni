@@ -1,2 +1,3 @@
 # bazoni
 # primeiro projeto receita omelete
+# modo de preparo...
